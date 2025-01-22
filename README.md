@@ -1,4 +1,4 @@
-# Operating-System-Project
+# Operating-Systems-Project
 The dining philosophers problem is considered a classic synchronization problem. This problem
 deals with resource allocation, it is an example of a large class of concurrency-control problems.
 
